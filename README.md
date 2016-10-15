@@ -16,9 +16,6 @@ Because the Undok app forces me to
 
 Even though I only have one device!
 
-I only have one device and I don't want to spend my precious time using software that is not
-customized to my needs.
-
 # Debug build
 ```
 ./gradlew app:assembleDebug
